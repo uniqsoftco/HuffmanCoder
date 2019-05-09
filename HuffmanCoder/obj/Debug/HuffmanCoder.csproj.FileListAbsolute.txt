@@ -1,0 +1,7 @@
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\obj\Debug\HuffmanCoder.csprojAssemblyReference.cache
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\obj\Debug\HuffmanCoder.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\bin\Debug\HuffmanCoder.exe.config
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\bin\Debug\HuffmanCoder.exe
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\bin\Debug\HuffmanCoder.pdb
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\obj\Debug\HuffmanCoder.exe
+C:\Users\Saeed\source\repos\HuffmanCoder\HuffmanCoder\obj\Debug\HuffmanCoder.pdb
